@@ -2,7 +2,9 @@
 
 In this Github repository, I'm documenting my journey to writing a
 self-compiling compiler in only five days.
+
 This was our final project for the university course: Automata Theory.
+
 The project developed my understanding of tokenization, parsing, and semantic analysis.
 
 Here are the steps I've implemented:
